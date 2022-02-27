@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A touch-stone, or, Triall and examination of a sermon, preached by Master Haslewood of Sutton at Hone in the county of Kent: and upon true touch, found to be reprobate silver, (false, and dangerous doctrine) wherein are handled these 3. particulars, 1. The unlawfulness to call any meeting house, the house of God. 2. The church. 3. The temple of God. / By R.H. a lover of truth.</title>
+            <author>R. H., a lover of truth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86098</idno>
+            <idno type="STC">Wing H115</idno>
+            <idno type="STC">Thomason E385_15</idno>
+            <idno type="STC">ESTC R201465</idno>
+            <idno type="EEBO-CITATION">99861970</idno>
+            <idno type="PROQUEST">99861970</idno>
+            <idno type="VID">160208</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160208)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E385[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A touch-stone, or, Triall and examination of a sermon, preached by Master Haslewood of Sutton at Hone in the county of Kent: and upon true touch, found to be reprobate silver, (false, and dangerous doctrine) wherein are handled these 3. particulars, 1. The unlawfulness to call any meeting house, the house of God. 2. The church. 3. The temple of God. / By R.H. a lover of truth.</title>
+                  <author>R. H., a lover of truth.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, and are to be sold at the Black-spred Eagle at the West-end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 30 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Haslewood, Robert, b. 1595 or 6 --  Early works to 1800.</term>
+               <term>Church buildings --  Nomenclature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160208:1" rendition="simple:additions"/>
+            <p>A Touch-ſtone, OR, Triall and Examination of a SERMON,</p>
+            <p>Preached by Maſter <hi>Haſlewood</hi> of <hi>Sut<g ref="char:EOLhyphen"/>ton</hi> at <hi>Hone</hi> in the County of <hi>Kent:</hi>
+            </p>
+            <p>And upon true Touch, found to be Reprobate Silver, (Falſe, and Dangerous Doctrine)</p>
+            <p>Wherein are handled theſe 3. Particulars,
+<list>
+                  <item>1. <hi>The unlawfulneſs to call any Meeting-houſe, the Houſe of God.</hi>
+                  </item>
+                  <item>2. <hi>The Church.</hi>
+                  </item>
+                  <item>3. <hi>The Temple of God.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By <hi>R. H.</hi> A Lover of Truth.</p>
+            <q>
+               <bibl>
+                  <hi>MATTH. 15.9.</hi>
+               </bibl> In vain do they worſhip me, teaching for doctrine, the traditi<g ref="char:EOLhyphen"/>ons of men.</q>
+            <q>
+               <bibl>
+                  <hi>COL. 2.8.</hi>
+               </bibl> Beware leſt any man ſpoil you through Philoſophy, and vain deceit, after the tradition of men, after the rudiments of the world, and not after Chriſt.</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> and are to be ſold at the Black-ſpred Eagle at the Weſt-end of <hi>Pauls.</hi> 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:160208:2"/>
+            <head>To the READER.</head>
+            <head type="sub">And in eſpeciall to the Inhabitants of the Pariſh of <hi>Sutton,</hi> at <hi>Hone,</hi> in the County of <hi>Kent.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving a deſire that the truth might not be clouded or eclipſed by the myſterie of dark<g ref="char:EOLhyphen"/>neſs and falſe Doctrine: I have ventured to come upon the Stage, who am the weakeſt that hath put Pen to paper; but knowing that God is not tied to means, but hath promiſed that out of the mouths of babes and ſucklings he will perfect praiſe, was preſſed to make vſe of that ſmall talent to his glory; though it be but plain, yet it may ſatisfe the plain Chriſtian, and con<g ref="char:EOLhyphen"/>vince the greateſt oppoſer: therefore reade with deſire to know, not with prejudice againſt the truth for the perſons ſake; but love the truth, for the truths ſake; and the God of truth lead you into all truth, and keep you from every errour, which are the earneſt prayers, of,</p>
+            <closer>
+               <signed>
+                  <hi>Him who would be Joyfull to ſee Chriſt more exalted, An<g ref="char:EOLhyphen"/>tichriſt more layd naked.</hi> R. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:160208:2"/>
+            <head>A Touch-ſtone.</head>
+            <head type="sub">A Speech intended to have been ſpoken in the Pariſh Meeting-houſe of <hi>Sutton</hi> at <hi>Hone,</hi> in the County of <hi>Kent. Decemb</hi> 1646.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall in all humility and meekneſs deſire liberty to ſpeak a few words concerning the Doctrine delivered laſt firſt day in this place, in which I deſire only Gods glory, the vindication of the Truth, and good of poor ignorant People.</p>
+            <p>You know friends and neighbours, you had one here a<g ref="char:EOLhyphen"/>mongſt you, that taught the Doctrine of the Goſpell plainly (or the greater ſin if you know not) and not for lucre of gain, as is known to moſt of you, not having received one penny from you (an ill requitall for his great pains) as God and your own conſcience can beſt witneſs<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſad ſign you were not worthy of it; and now ſo far as I conceive, the Lord hath, for a juſt Judgement, ſuffered one to come amongſt you again, that (not unknown to ſome of you) threatned to ſtarve your ſouls, and I fear it is too true, if God prevent not; and my ſoul bleeds to think of your condition: and may be God hath ſent me, a poor inſtrument, to warn you once more to come out of your ignorance, or elſe, for a witneſs againſt you, being a witneſs to the Truth that hath-been preached here, when the Lord Jeſus ſhall be revealed from heaven, with his mighty Angels, in flaming fire, taking vengeance on them that know not God, and obey not the Goſpell of our Lord Jeſus Chriſt, 2 <hi>Theſſ.</hi> 1.8.</p>
+            <p>
+               <pb n="2" facs="tcp:160208:3"/>It ſeems there hath been lately taught in this place, that this is none other then the houſe of God, and theſe are the gates of Heaven, from that place <hi>Gen.</hi> 28.17. By which doth appear groſs ignorance in the party that ſo delivered it.</p>
+            <p>And my Reaſon is:</p>
+            <p>Becauſe if we well weigh and conſider the place, there was no materiall houſe at all, nor any gate; unleſs he will make the viſionall ladder the gate or houſe, or the heap of ſtones under his head: but by the ladder was meant Chriſt Ieſus, the one end reaching to heaven ſhewed his divine nature, and the other end to the earth, his humane nature: ſhewing or holding forth thus much; had not Chriſt deſcended from heaven, and took our nature upon him, and gave us a part of his divine nature, we could never have aſcended up to heaven: but that which makes <hi>Jacob</hi> to ſpeak thoſe words, was the Lords preſence appearing to him, in a way of promiſe, in bleſ<g ref="char:EOLhyphen"/>ſing of him: ſo that indeed when God appears to any ſoul in any place with promiſe of bleſſing, there is the houſe of God and gate of heaven opened to the ſoul, and the rich treaſure in that houſe manifeſted to be his. And now for any man to raiſe that doctrine from Scripture which it will not warrant, nor in no wiſe beare, (to me) is no leſs then blaſphemy, becauſe it derogates from the power and ſpirit of the word.</p>
+            <p>To make difference of places for the worſhip of God under the Goſpel, as one place to be more holy then other, contradicts the practice of Chriſt, and his Apo<g ref="char:EOLhyphen"/>ſtles, and Chriſts own words, <hi>John</hi> 4.21. Now that which doth ſo, is a great ſin, (1) but that it contradicts Chriſts practice, is evident, <hi>Mat.</hi> 5.1, 2. The firſt Ser<g ref="char:EOLhyphen"/>mon we reade Chriſt preached, was on a Mountain, though at that time the Tem<g ref="char:EOLhyphen"/>ple was in uſe, being not rent till his death, that is, the Vaile, which is the Type, or ſhadow, Chriſt himſelf being the ſubſtance, and <hi>Mat.</hi> 13.1, 2. He preached in a Ship, and on the Sea ſhore, as alſo <hi>Mark</hi> 4.1. and <hi>John</hi> 4.20, 21. There Chriſt tels the woman, there was no ſet place of worſhip, and <hi>Mat.</hi> 24.1, 2. There the diſciples take notice of the outward beauty of the outward Temple, not meaning the Anti<g ref="char:EOLhyphen"/>type Chriſt Ieſus, which it held forth, and Chriſt tels them there ſhall not be left one ſtone upon another, And why ſo? To bring men wholly off from looking upon any externall and materiall holineſs, to the internall holineſs which is in and by Chriſt, for though the Temple was holy in regard of Gods command and appoint<g ref="char:EOLhyphen"/>ment; who commanded and gave pattern how it ſhould; be done to a very pin and ring, and nothing of man either over or under, yet I ſay, for all that it was to vaniſh, [But the holineſs that is in and by Chriſt, ſhall never decay.] That Temple was gold within and without; either to ſhew the glory, beauty, and pure perfection of Chriſt in both natures, or elſe to ſhew what Chriſt was in his ſpirituall Temple [his Saints] pretious grace in them, and glorious profeſſion of the ſame outwardly. The worſhip under the Law did conſiſt much in carnall Ordinances, as ſacrifices, purifyings, and the like: but the worſhip of God under the goſpel is ſpirituall, the worſhipers ſpirituall <hi>Ioh</hi> 4.23, 24. Now here lyes the great evill, moſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men are un<g ref="char:EOLhyphen"/>der a legall ſpirit, and are for carnall places, carnall worſhip, and worſhipers; but we dare not truſt in ſuch lying words, crying the Temple of the Lord, the Temple of the Lord, <hi>Ier</hi> 7.4.2. As it contradicts Chriſts practiſe and word, ſo alſo the pra<g ref="char:EOLhyphen"/>ctice of the Apoſtles, both whom we are to imitate, and not our own humane in<g ref="char:EOLhyphen"/>ventions, and vain imaginations, for which certainly God will call us to accompt, and demand who required theſe things at our hands, <hi>Iſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 1.12. We ſee Chriſt Ie<g ref="char:EOLhyphen"/>ſus was pleaſed to poure out the gifts of the ſpirit upon his Diſciples, being met in an upper chamber<note n="*" place="margin">
+                  <hi>Acts</hi> 24. compared with <hi>Acts</hi> 1.13, 14.</note> (and herein Mr. <hi>Haſlewood</hi> play'd the Sophiſter, who ſpeak<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:160208:3"/>concerning the meeting, ſaid it was not in a Hall, or Parlor, Barn, or Stable, but would not ſpeak out the truth: for I deſire to Querie to him, or any other, why a Hall, or Parlor may not be every way as convenient as an upper Chamber? or a Barn, as well as the open field? but that he is pleaſed to flie as far off from truth as he can, for fear it ſhould overthrow all he had ſaid before, and lay him naked to his own ſhame, but this is juſt as Satan did by Chriſt, to bring half Scipture, <hi>Mat.</hi> 4 6.) And the Apoſtle <hi>Paul</hi> preached daily in the market place, <hi>Acts</hi> 17.17. and <hi>Lydia</hi> was converted by a river ſide, <hi>Acts</hi> 16.3. and <hi>Paul</hi> preached from houſe to houſe, <hi>Acts</hi> 20.20. and in his own hired houſe. <hi>Acts uit.</hi> 30, 31. And now brethren, I hope you ſee, or the Lord help you to ſee that the Doctrine then taught you is falſe, and erroneous, and the Lord open the eyes of your underſtanding, that you may know all truths, as they are in Jeſus: but I ſhall ſhew you one thing more, which is this.</p>
+            <p n="3">3. The promiſe of Chriſts preſence is not tyed to places, therefore we are not to be tyed to places, <hi>Mat.</hi> 18. 20. Where two or three are gathered together in my name, &amp;c. Now, though it is true, the place ſpeaks of gathering by Chriſts power (for that is meant by name) for the work of binding, or looſing (receiving in, or caſting out) yet it is true in the other ſenſe, and will very well agree with Analogie of divine Truth; that if two or three godly perſons meet together to ſeek the Lord, he will be found of them: or, by two or three, may be meant a ſmall number, Chriſts-flock is but little, <hi>Luke</hi> 12.32.</p>
+            <p>Now to ſpeak a little what a Church is:</p>
+            <p>It it ſometimes taken for the rude multitude aſſembled, but that improperly.</p>
+            <p n="1">1. Negatively: A Church is no materiall houſe, for that is the moſt improper ſpeech, the former being more proper then this: and the reaſon<g ref="char:punc">▪</g> becauſe never in Scripture (to my beſt knowledge) called a Church, therefore no fit name ſo to call it, neither can it be ſo taken.</p>
+            <p>For theſe Reaſons:</p>
+            <p n="1">1. <hi>Paul</hi> is ſaid to perſecute the Church, Did the Apoſtle go and pull the Lime and Stones in pieces? <hi>Acts</hi> 8.3. &amp; 22.4.</p>
+            <p n="2">2. Chriſt Jeſus is ſaid to be head of his Church <hi>Epheſ.</hi> 5.23. and is that a body fit for ſo glorious a head?</p>
+            <p n="3">3. Chriſt gave himſelf for his Church, <hi>Epheſ.</hi> 5.25. but none ſure is ſo weak to conceive that Chriſt gave himſelf for Lime and Stone.</p>
+            <p n="4">4. Chriſt is ſaid to nouriſh and cheriſh his Church, <hi>Epheſ.</hi> 5.29. but it cannot be ſaid ſo of that.</p>
+            <p n="5">5. Chriſt gave himſelf for his Church, that he might preſent it to himſelf a glo<g ref="char:EOLhyphen"/>rious Church, <hi>Epheſ.</hi> 5.27. but thoſe ſhall periſh and come to nothing.</p>
+            <p n="2">2. Affirmat. The Church of Jeſus Chriſt in Scripture language, are thoſe whom he hath purchaſed and redeemed to himſelf, as a peculiar inheritance: which Church is a company of viſible Saints, called and ſeparated from the world by the Word and Spirit of God, to the viſible profeſſion of the faith of the Goſpel, being baptiſed in<g ref="char:EOLhyphen"/>to that faith, and joyned to the Lord, and each to other by mutuall agreement in the practicall injoyment of the Ordinances commanded by Chriſt their head and King: This definition we ſhall explain upon occaſion.</p>
+            <p>
+               <hi>Object.</hi> But it may be objected, that the publique place may be called the Temple of God.</p>
+            <p>
+               <hi>Anſw.</hi> It cannot be properly called the Temple of God:</p>
+            <p n="1">1. Becauſe the Scripture no where calls theſe places ſo<g ref="char:punc">▪</g> There was never but
+<pb n="4" facs="tcp:160208:4"/>one Temple and that was at Jeruſale which is now demolliſned, and never to be reared again, which, as I ſaid before, did type out Chriſt: but the Antitype being come, there is no farther need of the type: beſides, that in every particular, as I ſhewed, was of Gods appointing, and therefore might be ſo called, but that which is by mans appointing ought not to be ſo called, for that would be to aſſume a pow<g ref="char:EOLhyphen"/>er to our ſelves, which only belongs to God, which is to make any thing holy.</p>
+            <p n="2">2 The Temple of God in Scripture language (which is the wholſome language of Canaan) is denoted to be the Saints, or ſanctified ones, as 1 <hi>Cor.</hi> 3.16. <hi>&amp;</hi> 6.19. 2 <hi>Cor</hi> 6.16. 1 <hi>Pet</hi> 2.4 5. <hi>Heb.</hi> 3.6.</p>
+            <p>Now I ſhall not only give you thoſe collections from Scripture, which the Lord was pleaſed to bring into my thoughts, but alſo ſhall give you the Synods judge<g ref="char:EOLhyphen"/>ment concerning this particular, <hi>viz.</hi>
+            </p>
+            <p>As no place is capable of any holineſs, under pretence of whatſoever dedication, or conſecration: ſo neither is it ſubject to ſuch pollution by any ſuperſtition for<g ref="char:EOLhyphen"/>merly uſed, and now laid aſide, as may render it unlawfull, or inconvenient for Chriſtians to meet together, &amp;c.</p>
+            <p>Now if it be demanded why we will not hear ſuch as theſe men be: I anſwer.</p>
+            <p n="1">1. Becauſe they are but blinde leaders, and then we know what the Scripture ſaith, <hi>Mat.</hi> 15 14. <hi>Luke</hi> 6.39.</p>
+            <p n="2">2. Becauſe we are commanded to turn aſide, or withdraw from thoſe that have a form, and deny the power, 2 <hi>Tim.</hi> 3.5.</p>
+            <p>Now I deſire liberty to ſpeak a word in the behalf of myſelf, and many thou<g ref="char:EOLhyphen"/>ſands more that ſuffer under the name of Heretiques, Schiſmatiques, Seditious, Re<g ref="char:EOLhyphen"/>bellious, and what not, and by thoſe who are learned according to the Letter, and would fain be thought ſo, as according to the Spirit, though no fruits nor effects of it at all.</p>
+            <p n="1">1. It was ſo from the beginning, and will be ſorfor Chriſt the great Prophet hath foretold it: Chriſt Jeſus was ſo eſteemed, <hi>Mat.</hi> 9.34. <hi>&amp;</hi> 12 24. and by whom was he ſo eſteemed? It was by the Phariſees, a ſtrict ſort of Profeſſors, who faſted three times a week, and gave of all they had to the poor; but ſome make a wicked uſe of this, therefore they are ſo ſtrict ſay they, they are Hypocrites; nay, but from hence we ſhall draw Chriſts concluſion <hi>Mat.</hi> 5.20. Except your righteouſneſs ex<g ref="char:EOLhyphen"/>ceeds (not comes ſhort) ſhall in no wiſe enter into the Kingdome of heaven. There<g ref="char:EOLhyphen"/>fore if they ſhall do ſo much and go to Hell, what ſhall become of them that come fore of what they did: they were ſtrict but in a formall way to be ſeen of men, or to pleaſe men: there is nothing more like the power of godineſs, then a form, yet nothing more againſt it. Therefore the greater danger, that a man had need of a quick ſight to diſcern between them; none greater enemies to true profeſſors, then formall profeſſors; they cannot endure that any ſhould go beyond them: theſe were Chriſts enemies all along, and again <hi>Luke</hi> 23.2. There they accuſe him of Se<g ref="char:EOLhyphen"/>dition, and one that perverts the Nation: &amp; who were theſe? They were the Prieſts, thoſe learned Scribes, which ſhould have been for Chriſt, but they were moſt a<g ref="char:EOLhyphen"/>gainſt Chriſt, as you may ſee <hi>ver.</hi> 13, 14. &amp; 23. of that Chap. At laſt you may ſee the voice of the Prieſts prevailed with Pilate againſt Chriſt: you ſeldom found them for Chriſt, his cauſe or people.</p>
+            <p>And if Chriſt was ſo uſed, can his ſervants expect better? No ſure, <hi>Math.</hi> 10.24, 25. <hi>Ioh.</hi> 15.18, 19. and ſo <hi>Paul</hi> was accounted a peſtilent fellow (that is ſuch a one that did infect all that came neere him) a mover of Sedition, <hi>Act.</hi> 24.1, 5, 6.
+<pb n="5" facs="tcp:160208:4"/>and by whom? See ver. 1. <hi>Ananias</hi> the Prieſt, if there be any thing to do againſt God, and his people, be ſure you ſhall find a Prieſt among them: thus I have proved that it muſt be ſo. And ſo we are accuſed for Hereticks, but as they could prove nothing againſt Chriſt and his members: ſo bleſſed be our gracious God, they can prove nothing againſt us, except it be in the caſe of <hi>Daniel,</hi> concerning the worſhip of our God, <hi>Dan.</hi> 6.4. For though we are accuſed, arraigned, and con<g ref="char:EOLhyphen"/>demned, and ſentence of death paſſed upon us, (daily in the publick,) yet to this day we could not come to a faire tryall, which is not Chriſtian-like, nay worſe then the Heathen, who would not paſs ſentence till they came face to face, <hi>Acts</hi> 23.35. now the word holds forth, <hi>Tit.</hi> 3.10. Him that is an Heretick, after the firſt and ſecond admonition reject; but we cannot obtain admonition, and therefore far from abſolution (an excellent Popiſh Tenet) but ſure ſuch have forgot the rule <hi>Math.</hi> 7.12. do unto all men <hi>&amp;c.</hi>
+            </p>
+            <p>And although they have nothing juſtly to charge us withall, yet we have them, (I mean ſuch that are time-ſervers, and turne any way the wind ſits fair; no point of the compaſs amiſs: they are never out of their way, becauſe they were never well in.) as:</p>
+            <p n="1">1. To be looſe and ſcandalous, in their lives, giving bad examples to their flocks, being Clubbers Drunkards, Gameſters, and what not.</p>
+            <p n="2">2. To be great incendiaries in the kingdome, the Fomentors of all our pinch<g ref="char:EOLhyphen"/>ing miſeries, by their evill and wicked Doctrine, as witneſs the firſt war with the Scots, who gave large contributions, and preſt almoſt in every Pulpit to give towards it. But then ſhould we not have thought their learning ſhould have taught them more wit? No, for it is only God by his ſpirit, muſt teach true ſpi<g ref="char:EOLhyphen"/>rituall wiſdome; hath not this war been a Prelaticall war? and hath not God been Juſt to bring them into the pit they digged for other, and to hang them on <hi>Ha<g ref="char:EOLhyphen"/>mans</hi> Gallows? Where then is the wiſe, where the Scribe, where is the diſputer of this World? 1 <hi>Cor.</hi> 1.20. Did God honour them with that Reformation we have in part received? No, It was the Noble Gentry, and poor country, and City Members with their unwearied prayers cries, and tears, and Petitions, that out of the mouths of babes and ſucklings he might or dain ſtrength, <hi>Pſal.</hi> 8.2. <hi>Mat.</hi> 11.25. Now theſe falſe Prieſts and Prophets, are alwaies more in number then the true, and gain more in great mens favours: poor <hi>Amos</hi> he muſt not come neer the Court, <hi>Amos</hi> 7.13, 14 Truth muſt not come neer great mens houſes: what, poor ſhep<g ref="char:EOLhyphen"/>hards heards-men, Mecanicks, tell plain and naked truths, and think to finde friendſhip at Court? No, by no means, but you ſhall ſee what ſad woes the Lord pronounceth againſt theſe falſe Prophets <hi>Ier.</hi> 5.21. Chap. 14.18 &amp; 23.25. And obſerve well that remarkable place, (and Oh! that it were written on every one of their garments that are ſuch,) <hi>Ier.</hi> 23.13.14, 15, 16, 17 &amp; <hi>Ezek.</hi> 22.25, 26, 27, 28. with many more places which would take up much time to recite</p>
+            <p n="3">3. We charge many to uſurp their callings to the miniſtery, becauſe neither God called them nor the Saints.</p>
+            <p n="1">1 God called them not, becauſe they have not ſo much as gifts, cannot pray without book; And God never called any to an office, but gave them gifts, meet for the work he called them to.</p>
+            <p n="2">2 The Saints did not call them, for they cannot away with ſuch teachers, and I know no other call now, Miracles ceaſing, but an inward, and an outward, and power lies in the Church, not in one or two mens powers.</p>
+            <p>
+               <pb n="6" facs="tcp:160208:5"/>Now Reader I have in ſhort given you my weak thoughts: and fully declared un<g ref="char:EOLhyphen"/>to you what I did intend by the permiſſion of God to ſpeak, (but I fear God hath reſerved ſome great judgement for this place) for which I am accuſed, ſentenced, and condemned already, (before my tryall) by the malignant Presbytery (I mean ſuch who are meer time-ſervers (not true ſervers of God) that were before Ma<g ref="char:EOLhyphen"/>lignants now turned with the ſtate, and only wait, for the tide turning again (of which we have too many) though by all that are godly, either Presbyters, or other, I know cannot but be approved, being the way of God, [that if any man hath any thing revealed that ſtands by, the firſt ſhould hold his peace:] and becauſe we can<g ref="char:EOLhyphen"/>not have this Goſpel-Liberty, we are forced to withdraw from ſuch, leſt we ſhould be partakers of their plagues. Now all that I deſire is, that the Lord would open the eyes of poor ignorant people, and that thoſe that are ſpirituall, would improve their intereſts to the utmoſt. That the Lord would be pleaſed to move the hearts of the Magiſtrates, to pity poor ignorant people that want light, to uſe all poſſible means for the encreaſe of ſoul-ſaving knowledge, by indeavouring to ſend forth ſome godly conſcientious men, whoſe eyes are not upon gain; till which time wee cannot expect a Reformation, as is expected; but a Deformation and diſobedience to God and man: For it is only the Goſpel that teacheth both: which ſhall be the earneſt prayers, of,</p>
+            <closer>
+               <signed>Yours for the Service in the Goſpel, R. H.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
